@@ -7,8 +7,8 @@ body{
 .container{
     width: 800px;
     background-color: #0d5c63;
-    margin-left: 250px;
-    margin-top: 200px;
+    margin-left: 900px;
+    margin-top: 230px;
     border-radius: 10px;
 }
 h2 {
@@ -58,18 +58,19 @@ input{
     text-align: centers;
 }
 .socialmedia{
-   padding: 20px;
+   padding: 10px;
     color: #0d5c63;
     font-size: xx-large;
     font-weight: bolder;
-    margin-right: 10pxS;
+   
+
 
 }
 #b,#c,#d,#a{
-    font-size: x-large;
-    margin: 10px;
+    font-size: xx-large;
+    margin: 20px;
 }
 #a{
-     margin-left: 6px;
-     font-size: x-large;
+     margin-left: 520px;
+    
 }
